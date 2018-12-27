@@ -14,8 +14,6 @@ if len(userWord) > 0 and userWord.isalpha():
 else:
     print("INPUT INVALID")
 
-input("hi")
-
 
 
 
